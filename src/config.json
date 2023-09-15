@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "scamsniffer.io",
     "scam-sniffer.io",
     "circlest.org",
     "lp-rewards.net",
